@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "王云涛 (c4605)",
+    "label": "Craftsman",
+    "picture": "http://www.gravatar.com/avatar/50e7f4e81030deb299fb4379ac6c0fc0",
+    "email": "bolasblack [at] gmail",
+    "phone": "+86 18668185752",
+    "website": "http://plafer.info",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hangzhou",
+      "countryCode": "China",
+      "region": "Zhejiang"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "bolasblack",
+        "url": "https://github.com/bolasblack"
+      },
+      {
+        "network": "Twitter",
+        "username": "c4605",
+        "url": "https://twitter.com/c4605"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "bolasblack",
+        "url": "https://www.linkedin.com/profile/view?id=159295680"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Gezbox Inc",
+      "position": "Web Frontend Deveopler",
+      "website": "http://gezbox.com",
+      "startDate": "2012-03-01",
+      "endDate": "2014-04-01",
+      "summary": "",
+      "highlights": [
+        "Develop web frontend part of a hybrid mobile client based on cordova.",
+        "Develop web frontend part of a social webapp.",
+        "Develop web frontend part of a management interface."
+      ]
+    },
+    {
+      "company": "Pomotodo",
+      "position": "Web Frontend Deveopler",
+      "website": "https://pomotodo.com",
+      "startDate": "2014-04-01",
+      "endDate": "",
+      "summary": "Based on Pomodoro Technique and GTD to help you work more efficiently",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Search Engine",
+      "area": "Information Technology",
+      "studyType": "",
+      "startDate": "2009-09-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "GitHub",
+      "area": "Information Technology",
+      "studyType": "",
+      "startDate": "2009-09-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Frontend",
+      "level": "Proficient",
+      "keywords": [
+        "CoffeeScript",
+        "AngularJS",
+        "Git"
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Novice",
+      "keywords": [
+        "API Service"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Competent"
+    },
+    {
+      "language": "English",
+      "fluency": "Novice"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
