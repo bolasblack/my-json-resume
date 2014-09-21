@@ -1,0 +1,22 @@
+{
+  "name": "my-json-resume",
+  "version": "1.0.0",
+  "description": "See also [JSON Resume](http://jsonresume.org/)",
+  "main": "resume.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolasblack/my-json-resume.git"
+  },
+  "author": "bolasblack <bolasblack [at] gmail>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolasblack/my-json-resume/issues"
+  },
+  "homepage": "https://github.com/bolasblack/my-json-resume",
+  "devDependencies": {
+    "resume-cli": "^0.3.10"
+  }
+}
